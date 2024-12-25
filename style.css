@@ -7,10 +7,12 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-     background-image: url(https://img.freepik.com/free-photo/watercolor-paper-texture_1194-6307.jpg?t=st=1735124137~exp=1735127737~hmac=15f3729ed11a4199a6d7158696452d609fded4f5cd78fa718f0f9218b6a757b1&w=740);
+
     flex-direction: column;
 }
 .main {
+      background-image: url(https://img.freepik.com/free-photo/crinkled-paper-texture_23-2147786533.jpg?t=st=1735124549~exp=1735128149~hmac=ace3fb5a6b87c26bda1d2f2a7aec42a3a28dfd6e1c61a1cc04511531f50e59c8&w=1060);
+    
     background-color: #E4EFE7;
     border-radius: 15px;
     box-shadow: 0 0 20px
