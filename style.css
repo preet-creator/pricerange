@@ -7,7 +7,7 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #FDFAF6;
+     background-image: url(https://img.freepik.com/free-photo/watercolor-paper-texture_1194-6307.jpg?t=st=1735124137~exp=1735127737~hmac=15f3729ed11a4199a6d7158696452d609fded4f5cd78fa718f0f9218b6a757b1&w=740);
     flex-direction: column;
 }
 .main {
